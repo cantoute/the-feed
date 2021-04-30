@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Super Btn AG
+Plugin Name: The Feed
 Plugin URI: https://github.com/cantoute/the-feed
 Description: Provides shortcode [the_feed]
 Author: Antony GIBBS + students
